@@ -48,3 +48,27 @@ main {
 	opacity: 0.9;
 
 }
+
+.info {
+	padding: 1em;
+}
+
+.menu{
+	padding: 1em;
+	background-color: rgba(207, 205, 140, 0.5);
+
+}
+
+.about{
+	padding: 1em;
+}
+
+footer{
+	padding: 1em;
+	background-color: #FC892F;
+	border-top: 5px solid #EC791F;
+	font-size: 80%;
+	text-align: right;
+}
+
+
