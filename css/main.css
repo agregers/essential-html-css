@@ -73,13 +73,18 @@ footer{
 }
 
 .info a:link,
-.info a:visited {
+.info a:visited,
+footer a:link,
+footer a:visited {
 	text-decoration: none;
+	color: #0000AA;
 }
 
-header a:hover,
-header a:focus{
-	background-color: #EE0000;
+.info a:hover,
+.info a:focus,
+footer a:hover,
+footer a:focus {
+	background-color: #0000EE;
 }
 
 dt {
