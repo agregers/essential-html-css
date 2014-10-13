@@ -29,6 +29,7 @@ h2, h3 {
 
 h2 {
 	font-size: 150%;
+	margin: 0;
 }
 h3 {
 	font-size: 125%
@@ -78,13 +79,6 @@ footer a:link,
 footer a:visited {
 	text-decoration: none;
 	color: #0000AA;
-}
-
-.info a:hover,
-.info a:focus,
-footer a:hover,
-footer a:focus {
-	background-color: #0000EE;
 }
 
 dt {
